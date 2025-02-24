@@ -10,16 +10,16 @@
  
 > About Me
 
-- 🌱 *I’m currently learning **DevOps, Arduino Programming, Data Science, Web Development***
+- 🌱 *I’m currently learning **DevOps, Enterprise Cloud and Security (AWS, Azure), Enterprise Software Architecture***
 
-- 💬 *Ask me about **Machine Learning, Front End Web Dev, DevOps***
+- 💬 *Ask me about **Software Architecture and Design, Cloud, DevOps***
 
-- 📫 *How to reach me **koushikpr87@gmail.com***
+- 📫 *How to reach me **karanboltz@gmail.com***
 <h1></h1>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/koushik-p-r-983512143/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/koushik-p-r-983512143/" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/https://www.linkedin.com/in/koushik-p-r/](https://www.linkedin.com/in/koushikpr/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/koushik-p-r-983512143/" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/koushik_p_r_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/koushik_p_r_/" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.gg/r9dQg7YP9Y" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/r9dQg7YP9Y" height="30" width="40" /></a>
 </p>
