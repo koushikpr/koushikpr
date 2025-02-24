@@ -6,7 +6,7 @@
 <h1></h1>
 
 <p align="centre">
- <img src="[https://your-banner-url-here.com/banner.png](https://drive.google.com/file/d/1T6V8VS0tJxU5Zk8nVozbhSdnjbnYUw2s/view?usp=drive_link)" alt="Banner Image" />
+ <img src="https://github.com/koushikpr/koushikpr/blob/main/Adobe%20Express%20-%20file%20(2)%201.png" alt="Banner Image" />
 </p>
 
  
