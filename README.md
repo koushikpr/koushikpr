@@ -1,9 +1,9 @@
 
-<h1 align="center">Hi 👋, I'm Koushik P R</h1>
-<p align="centre">
- <img src="https://github.com/koushikpr/koushikpr/blob/main/Adobe%20Express%20-%20file%20(2)%201.png" alt="Banner Image" />
-</p>
 
+<h1 align="centre">
+ <img src="https://github.com/koushikpr/koushikpr/blob/main/Adobe%20Express%20-%20file%20(2)%201.png" alt="Banner Image" />
+</h1>
+<h1 align="center">Hi 👋, I'm Koushik P R</h1>
 <h1></h1>
 <h3 align="center">A Cloud DevOps Enthusiast</h3>
 <h1></h1>
