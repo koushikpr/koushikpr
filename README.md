@@ -5,7 +5,9 @@
 <h1></h1>
 <h1></h1>
 
-
+<p align="centre">
+ <img src="[https://your-banner-url-here.com/banner.png](https://drive.google.com/file/d/1T6V8VS0tJxU5Zk8nVozbhSdnjbnYUw2s/view?usp=drive_link)" alt="Banner Image" />
+</p>
 
  
 > About Me
