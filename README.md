@@ -12,7 +12,9 @@
 - 💬 *Ask me about **Software Architecture and Design, Cloud, DevOps***
 
 - 📫 *How to reach me **karanboltz@gmail.com***
-<h1></h1>
+<h1>
+ <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=koushikpr&" alt="koushikpr" /></p>
+</h1>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
