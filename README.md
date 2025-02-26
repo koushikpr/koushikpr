@@ -36,8 +36,10 @@ So, if you're looking for someone who can automate your infrastructure faster th
 - **DevOps:** Git, Docker, Kubernetes, Ansible, Terraform, Jenkins, Grafana
 - **Cloud:** AWS, Azure, OpenStack
 - **Frameworks:** ASP.NET, Spring Boot, Flask, Agile
- - **Databases:** PostreSQL, MongoDB
+- **Databases:** PostreSQL, MongoDB
 
+
+<p></p>
 
 > 🤖 AI? Oh, I adore it! But let's be clear—I prefer using AI to ordering pizza, not building Skynet. When I'm not orchestrating clouds, you'll find me teaching my Alexa how to tell the best dad jokes or convincing Siri to reveal the secrets of the universe.
 
