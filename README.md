@@ -46,11 +46,5 @@ So, if you're looking for someone who can automate your infrastructure faster th
 <h1></h1>
 
 
-<p><img align="justify" src="https://github-readme-streak-stats.herokuapp.com/?user=koushikpr&" alt="koushikpr" /></p>
-<p>&nbsp;<img align="justify" src="https://github-readme-stats.vercel.app/api?username=koushikpr&show_icons=true&locale=en" alt="koushikpr" /></p>
-
-
-
-
 
 
