@@ -1,104 +1,54 @@
 <img src="https://github.com/koushikpr/koushikpr/blob/main/Adobe%20Express%20-%20file%20(2)%201.png" alt="Banner Image" />
+
+
+
+
+
+<h2 align="left">📋 Who am I ?</h2>
+
+Hey there! 👋  I'm Koushik, whisperer and master of Software Architecture and DevOps sorcery. If there's one thing I love more than optimizing workflows, it's making sure my coffee-to-code ratio is perfectly balanced.
+
+You know those moments when you accidentally launch a bazillion instances instead of just one? Yeah, been there, debugged that. But hey, every "oops" moment is just an opportunity for a legendary Stack Overflow 🔗 post, am I right?
+
+So, if you're looking for someone who can automate your infrastructure faster than you can say "continuous integration," let's connect! Just be warned: my LinkedIn feed is 90% tech memes and 10% shameless self-promotion. But hey, who doesn't love a good laugh between deployments? 💻🔧🚀 
+
+> 💡 Fun fact: My commit messages are so witty, they once made a Jenkins server LOL. True story.
 <h1></h1>
 
 
 
+
+
+
+     
+
 <img align="left" src="https://static.vecteezy.com/system/resources/thumbnails/050/907/693/small_2x/animated-3d-lightbulb-resting-on-an-open-book-symbolizing-ideas-and-knowledge-on-transparent-background-png.png" alt="Skills" width="200" height="200" />
 
-**SKILLS**
+
+
+
+
+<h3 align="left">Skills</h3>
+
+
 
 - **Programming Languages:** Java, C++, HTML, CSS, Javascript, Python, C#
-- **DevOps:** Docker, Kubernetes, Ansible, Terraform, Jenkins, Grafana
+- **DevOps:** Git, Docker, Kubernetes, Ansible, Terraform, Jenkins, Grafana
 - **Cloud:** AWS, Azure, OpenStack
 - **Frameworks:** ASP.NET, Spring Boot, Flask, Agile
  - **Databases:** PostreSQL, MongoDB
 
 
-<h1></h1>
-
-
+> 🤖 AI? Oh, I adore it! But let's be clear—I prefer using AI to ordering pizza, not building Skynet. When I'm not orchestrating clouds, you'll find me teaching my Alexa how to tell the best dad jokes or convincing Siri to reveal the secrets of the universe.
 
 <h1></h1>
-<h3 align="left">Languages and Tools:</h3>
-
-<h1></h1>a
-> Electronics
 
 
-
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>
-<a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> 
-<h1></h1>
-
-> Programming Languages
-
-<a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://spring.io/images/spring-logo-2022-dark-2f10e8055653ec50e693eb444291d742.svg" alt="SpringBoot" width="40" height="40"/> </a> 
-
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
-<h1></h1>
-
-
-> DevOps 
-
-
-<a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> 
-<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
-<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
-<a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> 
-<a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> 
-<a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> 
- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Ansible_logo.svg/624px-Ansible_logo.svg.png" alt="ansible" width="40" height="40"/> </a> 
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
-<a href="https://travis-ci.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/travis-ci/travis-ci-icon.svg" alt="travisci" width="40" height="40"/> </a> 
-<a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> </p>
-<h1></h1>
-
-> Web Development
-
-
-
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-<a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> 
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-<a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
-<h1></h1>
-
-> Data Science
-
-
-<a href="https://hive.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="hive" width="40" height="40"/> </a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-<a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> 
-<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> 
-<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
-<a href="https://www.scala-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="scala" width="40" height="40"/> </a> 
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
-<h1></h1>
-
-> Other tools
-
-
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
-<
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.gtk.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/7/71/GTK_logo.svg" alt="gtk" width="40" height="40"/> </a>
-<h1></h1>
-<h1></h1>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=koushikpr&show_icons=true&locale=en&layout=compact" alt="koushikpr" /></p>
-<h1></h1>
-<h1></h1>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=koushikpr&show_icons=true&locale=en" alt="koushikpr" /></p>
-<h1></h1>
-<h1></h1>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=koushikpr&" alt="koushikpr" /></p>
-<h1></h1>
 <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=koushikpr&" alt="koushikpr" /></p>
-<h1></h1>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=koushikpr&show_icons=true&locale=en" alt="koushikpr" /></p>
+
+
+
+
+
+
