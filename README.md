@@ -1,38 +1,27 @@
-
-
-
 <img src="https://github.com/koushikpr/koushikpr/blob/main/Adobe%20Express%20-%20file%20(2)%201.png" alt="Banner Image" />
-
-
-<h3 align="center">Connect with me</h3>
-<p align="center">
-<a href="https://www.linkedin.com/in/koushikpr/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/koushik-p-r-983512143/" height="30" width="40" /></a>
-<a href="https://www.instagram.com/koushik_p_r_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/koushik_p_r_/" height="30" width="40" /></a>
-<a href="https://discord.gg/https://discord.gg/r9dQg7YP9Y" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/r9dQg7YP9Y" height="30" width="40" /></a>
-<a href="mailto:koushikpr87@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/768px-Gmail_icon_%282020%29.svg.png" alt="https://discord.gg/r9dQg7YP9Y" height="24" width="32" /></a>
-</p>
-
-
-
- <h1></h1>
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=koushikpr&" alt="koushikpr" /></p>
- 
-> About Me
-
-- 🌱 *I’m currently learning **DevOps, Enterprise Cloud and Security (AWS, Azure), Enterprise Software Architecture***
-
-- 💬 *Ask me about **Software Architecture and Design, Cloud, DevOps***
-
-- 📫 *How to reach me **karanboltz@gmail.com***
 <h1></h1>
 
+
+
+<img align="left" src="https://static.vecteezy.com/system/resources/thumbnails/050/907/693/small_2x/animated-3d-lightbulb-resting-on-an-open-book-symbolizing-ideas-and-knowledge-on-transparent-background-png.png" alt="Skills" width="200" height="200" />
+
+**SKILLS**
+
+- **Programming Languages:** Java, C++, HTML, CSS, Javascript, Python, C#
+- **DevOps:** Docker, Kubernetes, Ansible, Terraform, Jenkins, Grafana
+- **Cloud:** AWS, Azure, OpenStack
+- **Frameworks:** ASP.NET, Spring Boot, Flask, Agile
+ - **Databases:** PostreSQL, MongoDB
+
+
+<h1></h1>
 
 
 
 <h1></h1>
 <h3 align="left">Languages and Tools:</h3>
 
-
+<h1></h1>a
 > Electronics
 
 
@@ -111,4 +100,5 @@
 <h1></h1>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=koushikpr&" alt="koushikpr" /></p>
 <h1></h1>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=koushikpr&" alt="koushikpr" /></p>
 <h1></h1>
